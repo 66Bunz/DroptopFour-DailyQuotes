@@ -42,14 +42,12 @@
 <details>
 <summary>Click to expand the Table of Contents</summary>
 <ul>
-    <li><a href="#droptop-four">Droptop</a></li>
+    <li><a href="#droptop-four">Droptop Four</a></li>
     <li><a href="#download">Download</a></li>
-    <li><a href="#complete-version">Complete Version</a></li>
     <li><a href="#about">About</a></li>
     <li><a href="#changelog">Changelog</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#credits">Credits</a></li>
-    <li><a href="#translations">Translations</a></li>
     <li><a href="#contacts">Contacts</a></li>
 </details>
 
