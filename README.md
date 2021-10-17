@@ -85,7 +85,7 @@ I have readjusted the <a href="https://www.deviantart.com/eclectic-tech/art/Illu
 
 <p><h2 align="center">License</h2></p>
 
-<a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License v3.0</a>
+<a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License v3.0</a><br>
 Feel free to modify or redistribute these Rainmeter skins as much as you want. Just:
 - Link back to me somehow
 - Use ths same license
