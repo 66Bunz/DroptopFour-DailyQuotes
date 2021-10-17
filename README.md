@@ -19,20 +19,20 @@
 
 <!-- BUTTONS -->
 <p align="center">
-    <a href="https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/stargazers"><img
-            src="https://img.shields.io/github/stars/66Bunz/Mondaine-Stop2Go-Rainmeter.svg" alt="Stars"></a>
+    <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes/stargazers"><img
+            src="https://img.shields.io/github/stars/66Bunz/DroptopFour-DailyQuotes.svg" alt="Stars"></a>
     ·
-    <a href="https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/network"><img
-            src="https://img.shields.io/github/forks/66Bunz/Mondaine-Stop2Go-Rainmeter.svg" alt="Forks"></a>
+    <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes/network"><img
+            src="https://img.shields.io/github/forks/66Bunz/DroptopFour-DailyQuotes.svg" alt="Forks"></a>
     ·
-    <a href="https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/blob/master/LICENSE"><img
-            src="https://img.shields.io/github/license/66Bunz/Mondaine-Stop2Go-Rainmeter.svg" alt="License"></a>
+    <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes/blob/master/LICENSE"><img
+            src="https://img.shields.io/github/license/66Bunz/DroptopFour-DailyQuotes.svg" alt="License"></a>
     ·
-    <a href="https://GitHub.com/66Bunz/Mondaine-Stop2Go-Rainmeter/issues/"><img
-            src="https://img.shields.io/github/issues/66Bunz/Mondaine-Stop2Go-Rainmeter.svg" alt="Issues"></a>
+    <a href="https://GitHub.com/66Bunz/DroptopFour-DailyQuotes/issues/"><img
+            src="https://img.shields.io/github/issues/66Bunz/DroptopFour-DailyQuotes.svg" alt="Issues"></a>
     ·
-    <a href="https://GitHub.com/66Bunz/Mondaine-Stop2Go-Rainmeter/pull/"><img
-            src="https://img.shields.io/github/issues-pr/66Bunz/Mondaine-Stop2Go-Rainmeter.svg" alt="Pull Requests"></a>
+    <a href="https://GitHub.com/66Bunz/DroptopFour-DailyQuotes/pull/"><img
+            src="https://img.shields.io/github/issues-pr/66Bunz/DroptopFour-DailyQuotes.svg" alt="Pull Requests"></a>
 </p>
 
 
