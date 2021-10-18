@@ -68,7 +68,7 @@ Feature and option-rich settings menu allow you full control over the appearance
 
 To use the Daily Quotes app you need to install <a href="https://www.deviantart.com/cariboudjan/art/droptop-four-762812007">Droptop Four</a>.<br>There are 2 ways to install this Rainmeter package:
 <ul>
-    <li>The first way is downloading the *.rmskin* package from <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes/releases">the GitHub releases</a> or from <a href="https://www.deviantart.com/bunz66/art/Mondaine-Stop2Go-2-3-862227018" target="_blank">my DeviantArt page</a>. Opening the file will open the installer and, after making shure that the option *Load included skins* is ticked to open the readme document with the guide, you can click on install.</li>
+    <li>The first way is downloading the *.rmskin* package from <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes/releases">the GitHub releases</a> or from <a href="https://www.deviantart.com/bunz66/art/DailyQuotes-1-0-0-895247999" target="_blank">my DeviantArt page</a>. Opening the file will open the installer and, after making shure that the option *Load included skins* is ticked to open the readme document with the guide, you can click on install.</li>
   <li>The second way is cloning this repository in the <em>Droptop Community Apps</em> directory "<code>\Rainmeter\Skins\Droptop Community Apps</code>"</li>
 </ul>
 
@@ -103,7 +103,7 @@ Icons from <a href="https://www.flaticon.com/"><b>Flaticon.com</b></a>
 
 <table>
   <tr>
-    <th><a href="https://gum.co/AqLYb"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="deviantArt"></a></th>
+    <th><a href="https://www.deviantart.com/bunz66"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="deviantArt"></a></th>
     <th><a href="https://github.com/66Bunz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a></th>
     <th><a href="mailto:bunzen@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"></a></th>
   </tr>
