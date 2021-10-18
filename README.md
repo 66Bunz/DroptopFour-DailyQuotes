@@ -1,21 +1,25 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
     <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes">
-        <img src="https://user-images.githubusercontent.com/66331265/137644319-eabe54b4-98f9-4dc1-ada6-be95bec3d4c4.png"
+        <img src="https://user-images.githubusercontent.com/66331265/137754719-b119e5da-d118-45a3-b777-29889a4a71a2.png"
             alt="Logo" width="300" height="300">
     </a>
 </p>
 
+
 <!-- TITLE -->
 <h1 align="center">Daily Quotes</h1>
+
 
 <!-- INTRO -->
 <p align="center">
     Daily Quotes is an app extension for the <a href="https://www.deviantart.com/cariboudjan/art/droptop-four-762812007">Droptop Four bar</a> that displays Daily Quotes on your bar.
 </p>
+
 
 <!-- BUTTONS -->
 <p align="center">
