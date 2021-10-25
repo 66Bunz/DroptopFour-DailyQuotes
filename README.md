@@ -72,7 +72,7 @@ Feature and option-rich settings menu allow you full control over the appearance
 
 To use the Daily Quotes app you need to install <a href="https://www.deviantart.com/cariboudjan/art/droptop-four-762812007">Droptop Four</a>.<br>There are 2 ways to install this Rainmeter package:
 <ul>
-    <li>The first way is downloading the *.rmskin* package from <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes/releases">the GitHub releases</a> or from <a href="https://www.deviantart.com/bunz66/art/DailyQuotes-1-0-0-895247999" target="_blank">my DeviantArt page</a>. Opening the file will open the installer and, after making shure that the option *Load included skins* is ticked to open the readme document with the guide, you can click on install.</li>
+    <li>The first way is downloading the *.rmskin* package from <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes/releases" target="_blank">the GitHub releases</a> or from <a href="https://www.deviantart.com/bunz66/art/DailyQuotes-895247999" target="_blank">my DeviantArt page</a>. Opening the file will open the installer and, after making shure that the option *Load included skins* is ticked to open the readme document with the guide, you can click on install.</li>
   <li>The second way is cloning this repository in the <em>Droptop Community Apps</em> directory "<code>\Rainmeter\Skins\Droptop Community Apps</code>"</li>
 </ul>
 
@@ -85,6 +85,8 @@ I have readjusted the <a href="https://www.deviantart.com/eclectic-tech/art/Illu
 <p><h2 align="center">Changelog</h2></p>
 
 - [Version 1.0.0](https://github.com/66Bunz/DroptopFour-DailyQuotes/releases/tag/v1.0.0) - *(18 October 2021)*  
+- [Version 1.0.1](https://github.com/66Bunz/DroptopFour-DailyQuotes/releases/tag/v1.0.1) - *(25 October 2021)*  
+  The quote box is now responsive (I hope)
 
 
 <p><h2 align="center">License</h2></p>
