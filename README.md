@@ -87,6 +87,8 @@ I have readjusted the <a href="https://www.deviantart.com/eclectic-tech/art/Illu
 - [Version 1.0.0](https://github.com/66Bunz/DroptopFour-DailyQuotes/releases/tag/v1.0.0) - *(18 October 2021)*  
 - [Version 1.0.1](https://github.com/66Bunz/DroptopFour-DailyQuotes/releases/tag/v1.0.1) - *(25 October 2021)*  
   The quote box is now responsive (I hope)
+- [Version 1.0.2](https://github.com/66Bunz/DroptopFour-DailyQuotes/releases/tag/v1.0.2) - *(29 November 2021)*  
+  quote and author are now in the same box, improved responsiveness of the app, some other aesthetic improvements (thanks to <a href="https://blacksquare88.wixsite.com/droptop4">Cari</a>)
 
 
 <p><h2 align="center">License</h2></p>
