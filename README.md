@@ -90,7 +90,7 @@ I have readjusted the <a href="https://www.deviantart.com/eclectic-tech/art/Illu
 - [Version 1.0.2](https://github.com/66Bunz/DroptopFour-DailyQuotes/releases/tag/v1.0.2) - *(29 November 2021)*  
   quote and author are now in the same box, improved responsiveness of the app, some other aesthetic improvements (thanks to <a href="https://blacksquare88.wixsite.com/droptop4">Cari</a>)
 - [Version 1.0.5](https://github.com/66Bunz/DroptopFour-DailyQuotes/releases/tag/v1.0.5) - *(01 February 2022)*  
-  Reconfigured many default variable names
+  Removed submenu, reconfigured many default variable names
 
 
 <p><h2 align="center">License</h2></p>
