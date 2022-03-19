@@ -8,11 +8,11 @@ AppName=Daily Quotes
 AppAuthor=Bunz
 AppVersion=1.0.3
 
-Quote1=Every failure is a step to success.
-Author1=William Whewell
+Quote1=The price of greatness is responsibility.
+Author1=Winston Churchill
 
-Quote2=The sweetest of all sounds is praise.
-Author2=Xenophon
+Quote2=The happiest people seem to be those who have no particular cause for being happy except that they are so.
+Author2=William Inge
 
-Quote3=The price of greatness is responsibility.
-Author3=Winston Churchill
+Quote3=Man is a creature who lives not upon bread alone, but primarily by catchwords.
+Author3=Robert Louis Stevenson
