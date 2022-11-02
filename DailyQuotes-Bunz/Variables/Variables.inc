@@ -1,4 +1,9 @@
 [Variables]
+
+CommunityAppRunOnce=1
+
+; ----- Add/Modify your variables below: ----------------
+
 GetQuote=.*<item>.*<title>(.*)</title>.*<description>"(.*)"</description>
 
 QuoteNumber=1
