@@ -1,126 +1,63 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-<!-- PROJECT LOGO -->
-<br />
+<h1 align="center">
+  <br>
+  <a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a>
+  <br>
+  Daily Quotes - Bunz
+  <br>
+</h1>
+
+<h4 align="center">Small description of your app.</h4>
+
 <p align="center">
-    <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes">
-        <img src="https://user-images.githubusercontent.com/66331265/137754719-b119e5da-d118-45a3-b777-29889a4a71a2.png"
-            alt="Logo" width="300" height="300">
-    </a>
+  <a href="https://droptopfour.com/community-apps">
+    <img alt="Dynamic version Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDroptop-Four%2FGlobalData%2Fmain%2Fdata%2Fcommunity_apps%2Fcommunity_apps.json&query=%24.apps%5B%3F(%40.app.name%20%3D%3D%20'Daily%20Quotes')%5D.app.version&prefix=v&label=Version&color=43ff64">
+  </a>
+  <a href="https://droptopfour.com"><img src="https://img.shields.io/badge/Droptop%20Four%20Website-43ff64"></a>
+  <a href="https://droptopfour.com/discord">
+      <img alt="Discord" src="https://img.shields.io/discord/800124057923485728">
+  </a>
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/66Bunz/DroptopFour-DailyQuotes/total">
 </p>
 
-
-<!-- TITLE -->
-<h1 align="center">Daily Quotes</h1>
-
-
-<!-- INTRO -->
 <p align="center">
-    Daily Quotes is an app extension for the <a href="https://www.deviantart.com/cariboudjan/art/droptop-four-762812007">Droptop Four bar</a> that displays Daily Quotes on your bar.
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#license">License</a>
 </p>
 
+![screenshot](Images/Screenshot.png)
 
-<!-- BUTTONS -->
-<p align="center">
-    <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes/stargazers"><img
-            src="https://img.shields.io/github/stars/66Bunz/DroptopFour-DailyQuotes.svg" alt="Stars"></a>
-    ·
-    <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes/network"><img
-            src="https://img.shields.io/github/forks/66Bunz/DroptopFour-DailyQuotes.svg" alt="Forks"></a>
-    ·
-    <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes/blob/master/LICENSE"><img
-            src="https://img.shields.io/github/license/66Bunz/DroptopFour-DailyQuotes.svg" alt="License"></a>
-    ·
-    <a href="https://GitHub.com/66Bunz/DroptopFour-DailyQuotes/issues/"><img
-            src="https://img.shields.io/github/issues/66Bunz/DroptopFour-DailyQuotes.svg" alt="Issues"></a>
-    ·
-    <a href="https://GitHub.com/66Bunz/DroptopFour-DailyQuotes/pull/"><img
-            src="https://img.shields.io/github/issues-pr/66Bunz/DroptopFour-DailyQuotes.svg" alt="Pull Requests"></a>
-</p>
-
-
-<p><h2 align="center">Table of contents</h2></p>
-
-
-<details>
-<summary>Click to expand the Table of Contents</summary>
-<ul>
-    <li><a href="#droptop-four">Droptop Four</a></li>
-    <li><a href="#download">Download</a></li>
-    <li><a href="#about">About</a></li>
-    <li><a href="#changelog">Changelog</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#credits">Credits</a></li>
-    <li><a href="#contacts">Contacts</a></li>
-</details>
-
-  
-<p><h2 align="center">Droptop Four</h2></p>
-
-Droptop Four is the fourth iteration of the popular dropdown app launcher for Windows & Rainmeter. Droptop Four brings new features, plugins, themes, and improved compatibility with Windows 10.<br>
-Droptop allows you to catalog your applications into scrollable groups by taking directory, filename, and icon information directly from any specified folder, allowing easy adding and removing shortcuts, renaming, and icon support through Windows. Easily drag & drop your shortcuts into Droptop's folders to add shortcuts, or rename, delete, or change a shortcut's icon all through the standard Windows interface.<br>
-Feature and option-rich settings menu allow you full control over the appearance and functionality of your dropdown menus.<br><br>
-  
-<p align="center">
-    <a href="https://www.deviantart.com/cariboudjan/art/droptop-four-762812007"><img
-            src="https://img.shields.io/static/v1?label=Download&message=Droptop+Four&color=50AE5C&style=for-the-badge" alt="Download Droptop Four"></a>
-</p>  
-
-
-<p><h2 align="center">Download</h2></p>
-
-To use the Daily Quotes app you need to install <a href="https://www.deviantart.com/cariboudjan/art/droptop-four-762812007">Droptop Four</a>.<br>There are 2 ways to install this Rainmeter package:
-<ul>
-    <li>The first way is downloading the *.rmskin* package from <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes/releases" target="_blank">the GitHub releases</a> or from <a href="https://www.deviantart.com/bunz66/art/DailyQuotes-895247999" target="_blank">my DeviantArt page</a>. Opening the file will open the installer and, after making shure that the option *Load included skins* is ticked to open the readme document with the guide, you can click on install.</li>
-  <li>The second way is cloning this repository in the <em>Droptop Community Apps</em> directory "<code>\Rainmeter\Skins\Droptop Community Apps</code>"</li>
-</ul>
-
-
-<p><h2 align="center">About</h2></p>
+## Key Features
 
 I have readjusted the <a href="https://www.deviantart.com/eclectic-tech/art/Illustro-Quotes-Patch-1-1-2015-11-11-564733769">Illustro Quotes</a> skin by <a href="https://www.deviantart.com/eclectic-tech">Eclectic-Tech</a> to fit in the app and in the <a href="https://www.deviantart.com/cariboudjan/art/droptop-four-762812007">Droptop Four</a> style, and in future updates I'm going to increse the features that this app offers.
 
+## How to use
 
-<p><h2 align="center">Changelog</h2></p>
+Scroll on the quote box to change the displayed quote.
 
-- [Version 1.0.0](https://github.com/66Bunz/DroptopFour-DailyQuotes/releases/tag/v1.0.0) - *(18 October 2021)*  
-- [Version 1.0.1](https://github.com/66Bunz/DroptopFour-DailyQuotes/releases/tag/v1.0.1) - *(25 October 2021)*  
-  The quote box is now responsive (I hope)
-- [Version 1.0.2](https://github.com/66Bunz/DroptopFour-DailyQuotes/releases/tag/v1.0.2) - *(29 November 2021)*  
-  quote and author are now in the same box, improved responsiveness of the app, some other aesthetic improvements (thanks to <a href="https://blacksquare88.wixsite.com/droptop4">Cari</a>)
-- [Version 1.0.5](https://github.com/66Bunz/DroptopFour-DailyQuotes/releases/tag/v1.0.5) - *(01 February 2022)*  
-  Removed submenu, reconfigured many default variable names
+## Download
 
+To use the Daily Quotes app you need to install <a href="https://www.deviantart.com/cariboudjan/art/droptop-four-762812007">Droptop Four</a>.<br>There are 2 ways to install this Rainmeter package:
+<ul>
+    <li>The first way is downloading the *.rmskin* package from <a href="https://github.com/66Bunz/DroptopFour-DailyQuotes/releases" target="_blank">the GitHub releases</a>. Opening the file will open the installer and, after making shure that the option *Load included skins* is ticked to open the readme document with the guide, you can click on install.</li>
+  <li>The second way is cloning this repository in the <em>Droptop Community Apps</em> directory "<code>\Rainmeter\Skins\Droptop Community Apps</code>"</li>
+</ul>
 
-<p><h2 align="center">License</h2></p>
-
-<a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License v3.0</a><br>
-Feel free to modify or redistribute these Rainmeter skins as much as you want. Just:
-- Link back to me somehow
-- Use ths same license
-
-
-<p><h2 align="center">Credits</h2></p>
+## Credits
 
 <a href="https://www.deviantart.com/eclectic-tech"><b>Eclectic-Tech</b></a>:
 - <a href="https://www.deviantart.com/eclectic-tech/art/Illustro-Quotes-Patch-1-1-2015-11-11-564733769">Illustro Quotes</a> (I readjusted the his code to fit in the app)
 
 Icons from <a href="https://www.flaticon.com/"><b>Flaticon.com</b></a>
 
+## License
 
-<p><h2 align="center">Contacts</h2></p>
-
-<table>
-  <tr>
-    <th><a href="https://www.deviantart.com/bunz66"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="deviantArt"></a></th>
-    <th><a href="https://github.com/66Bunz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a></th>
-    <th><a href="mailto:bunzen@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"></a></th>
-  </tr>
-</table>
-
-
-- [My DeviantArt Page](https://www.deviantart.com/bunz66): bunz66
-- [My GitHub](https://github.com/66Bunz): 66Bunz
-- My Mail: [bunzen@protonmail.com](mailto:bunzen@protonmail.com)
-- My [Gumroad](https://app.gumroad.com/bunz66): bunz66
+<a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License v3.0</a><br>
+Feel free to modify or redistribute these Rainmeter skins as much as you want. Just:
+- Link back to me somehow
+- Use ths same license
